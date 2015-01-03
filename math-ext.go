@@ -1,8 +1,6 @@
 package math
 
-import (
-	"math"
-)
+import ()
 
 func Clamp(value, min, max float64) float64 {
 	if value > max {
